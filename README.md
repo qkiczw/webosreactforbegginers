@@ -1,2 +1,2 @@
-# webosreactforbegginers
-Webos React for Begginers Tutorial
+# webosreactforbeginners
+Webos React for Beginners Tutorial
