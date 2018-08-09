@@ -1,2 +1,6 @@
-// let's go!
-alert('Time to start')
+import React from 'react';
+import {render} from 'react-dom';
+
+import StorePicker from './components/StorePicker';
+
+render(<StorePicker />, document.querySelector('#main'));
